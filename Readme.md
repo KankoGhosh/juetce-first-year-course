@@ -1,5 +1,5 @@
 # Jadavpur University - Department of Electronics and Telecommunication Engineering
-Repo containing source code, report, presentations of the important courses that are taught in First year at the Department of Electronics and Telecommunication Engineering at Jadavpur University
+Repo containing curriculum of the courses that are taught in First year at the Department of Electronics and Telecommunication Engineering at Jadavpur University
 
 ## Courses
 
